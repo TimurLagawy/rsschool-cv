@@ -47,3 +47,10 @@ Now online-study at stage1 in THE ROLLING SCOPES SCHOOL\
 I graduated BSEU in Minsk as Economist,\
 finished courses IT "Academy" as a QA Automation / QA Manual,\
 JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT) in 2023.
+
+## Languages:
+
+- Belarusian Native
+- English B1
+- Polish B2
+- Russian Native
