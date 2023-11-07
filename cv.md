@@ -8,11 +8,11 @@
 
 #### Telephone +48 791219625
 
-#### ![e-mail:](timurtagirovich@mail.ru)
+#### [e-mail:](timurtagirovich@mail.ru)
 
-#### ![Linkedin](https://www.linkedin.com/in/timur-lagawy/)
+#### [Linkedin](https://www.linkedin.com/in/timur-lagawy/)
 
-#### ![GitHub](https://github.com/TimurLagawy)
+#### [GitHub](https://github.com/TimurLagawy)
 
 ## About me:
 
