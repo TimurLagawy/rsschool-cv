@@ -8,7 +8,7 @@
 
 #### Telephone +48 791219625
 
-#### [e-mail:](timurtagirovich@mail.ru)
+#### [e-mail: timurtagirovich@mail.ru](timurtagirovich@mail.ru)
 
 #### [Linkedin](https://www.linkedin.com/in/timur-lagawy/)
 
