@@ -35,6 +35,16 @@ Hello. Looking for a job / trainee as Java Junior Developer/ Junior Frotend Deve
 - QA Manual
 - Visual Studio Code
 
+## Code example:
+
+function capitalizeWord(word) {\br
+let a = word.charAt(0).toUpperCase();\br
+
+let Word = [a, word.substr(1)].join("");\br
+
+return Word;\br
+}\br
+
 ## Experience:
 
 I have finished courses IT "Academy" as a QA Automation / QA Manual,\
