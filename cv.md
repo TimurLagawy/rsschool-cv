@@ -37,13 +37,13 @@ Hello. Looking for a job / trainee as Java Junior Developer/ Junior Frotend Deve
 
 ## Code example:
 
-function capitalizeWord(word) {\br
-let a = word.charAt(0).toUpperCase();\br
+function capitalizeWord(word) {\
+let a = word.charAt(0).toUpperCase();\
 
-let Word = [a, word.substr(1)].join("");\br
+let Word = [a, word.substr(1)].join("");\
 
-return Word;\br
-}\br
+return Word;\
+}\
 
 ## Experience:
 
